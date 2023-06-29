@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55076380360",
+    "firebase_url": "https://smartintrudersystem-default-rtdb.firebaseio.com",
+    "project_id": "smartintrudersystem",
+    "storage_bucket": "smartintrudersystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55076380360:android:b2289ea5ffc28e49294ffd",
+        "android_client_info": {
+          "package_name": "com.example.smart_intruder_alert_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55076380360-d3gongbo4u1gi01mbno1r7c0gmoe7bag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWxV3BW64KxKIGyWOKVbvM4rto5vPxQSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55076380360-d3gongbo4u1gi01mbno1r7c0gmoe7bag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
